@@ -1,0 +1,93 @@
+N2O3 + H2O -> HNO2:1 1 2
+SiO2 + Na2CO3 -> Na2SiO3 + CO2:1 1 1 1
+BaO2 + H2SO4 -> BaSO4 + H2O2:1 1 1 1
+Na2Cr2O7 + S -> Cr2O3 + Na2SO4:1 1 1 1
+HAsO2 -> As2O3 + H2O:2 1 1
+UO3 + H2 -> UO2 + H2O:1 1 1 1
+CdSO4 + H2S -> CdS + H2SO4:1 1 1 1
+HIO3 -> I2O5 + H2O:2 1 1
+Fe2O3 + SiO2 -> Fe2Si2O7:1 2 1
+Na2O + H2O -> NaOH:1 1 2
+HAsO3 -> As2O5 + H2O:2 1 1
+KHSO4 -> K2S2O7 + H2O:2 1 1
+H3PO4 -> H4P2O7 + H2O:2 1 1
+NaH2PO4 -> NaPO3 + H2O:1 1 1
+H2CO3 -> H2O + CO2:1 1 1
+CaCO3 -> CaO + CO2:1 1 1
+CaC2 + N2 -> CaCN2 + C:1 1 1 1
+FeS + H2SO4 -> H2S + FeSO4:1 1 1 1
+Hg2CO3 -> Hg + HgO + CO2:1 1 1 1
+CaSO4 -> CaS + O2:1 1 2
+BeF2 + Mg -> MgF2 + Be:1 1 1 1
+Mg + N2 -> Mg3N2:3 1 1
+K2O + H2O -> KOH:1 1 2
+C + H2O -> CO + H2:1 1 1 1
+N2O5 + H2O -> HNO3:1 1 2
+H2SO3 -> H2O + SO2:1 1 1
+NaPO3 + CuO -> NaCuPO4:1 1 1
+SO3 + H2O -> H2SO4:1 1 1
+Na2SO3 + S -> Na2S2O3:1 1 1
+SO2 + H2O -> H2SO3:1 1 1
+Li2O + H2O -> LiOH:1 1 2
+Na2HPO4 -> Na4P2O7 + H2O:2 1 1
+H4As2O7 -> As2O5 + H2O:1 1 2
+CO2 + H2O -> C6H12O6 + O2:6 6 1 6
+SiCl4 + H2O -> H4SiO4 + HCl:1 4 1 4
+Al + HCl -> AlCl3 + H2:2 6 2 3
+Na2CO3 + HCl -> NaCl + H2O + CO2:1 2 2 1 1
+C7H6O2 + O2 -> CO2 + H2O:2 15 14 6
+KClO3 -> KClO4 + KCl:4 3 1
+H2SO4 + HI -> H2S + I2 + H2O:1 8 1 4 4
+N2O5 -> N2 + O2:2 2 5
+C5H12 + O2 -> CO2 + H2O:1 8 5 6
+C8H18 + O2 -> CO2 + H2O:2 25 16 18
+HOCl + C -> H2O + CO2 + Cl2:4 1 2 1 2
+AlBr3 + K -> KBr + Al:1 3 3 1
+FeO + PdF2 -> FeF2 + PdO:1 1 1 1
+P4 + Br2 -> PBr3:1 6 4
+LiCl + Br2 -> LiBr + Cl2:2 1 2 1
+PbBr2 + HCl -> HBr + PbCl2:1 2 2 1
+Na3P + CaF2 -> NaF + Ca3P2:2 3 6 1
+Mn + HI -> H2 + MnI3:2 6 3 2
+Li3PO4 + NaBr -> Na3PO4 + LiBr:1 3 1 3
+CaF2 + Li2SO4 -> CaSO4 + LiF:1 1 1 2
+AgNO3 + Li -> LiNO3 + Ag:1 1 1 1
+N2 + H2 -> NH3:1 3 2
+KClO3 -> KCl + O2:2 2 3
+NaCl + F2 -> NaF + Cl2:2 1 2 1
+H2 + O2 -> H2O:2 1 2
+CH4 + O2 -> CO2 + H2O:1 2 1 2
+C3H8 + O2 -> CO2 + H2O:1 5 3 4
+Na + H2O -> NaOH + H2:2 2 2 1
+Ag2O -> Ag + O2:2 4 1
+S8 + O2 -> SO3:1 12 8
+K + MgBr2 -> KBr + Mg:2 1 2 1
+HCl + CaCO3 -> CaCl2 + H2O + CO2:2 1 1 1 1
+HNO3 + NaHCO3 -> NaNO3 + H2O + CO2:1 1 1 1 1
+NaBr + CaF2 -> NaF + CaBr2:2 1 2 1
+H3PO4 + KOH -> K3PO4 + H2O:1 3 1 3
+K + B2O3 -> K2O + B:6 1 3 2
+HCl + NaOH -> NaCl + H2O:1 1 1 1
+Na + NaNO3 -> Na2O + N2:10 2 6 1
+C + S8 -> CS2:4 1 4
+Na + O2 -> Na2O:4 1 2
+N2 + O2 -> N2O5:2 5 2
+NaOH + H2CO3 -> Na2CO3 + H2O:2 1 1 2
+KOH + HBr -> KBr + H2O:1 1 1 1
+Al + S8 -> Al2S3:16 3 8
+Cs + N2 -> Cs3N:6 1 2
+Mg + Cl2 -> MgCl2:1 1 1
+Rb + RbNO3 -> Rb2O + N2:10 2 6 1
+C6H6 + O2 -> CO2 + H2O:2 15 12 6
+C10H22 + O2 -> CO2 + H2O:2 31 20 22
+CH3CH2CH2CH3 + O2 -> CO2 + H2O:4 7 4 6
+Li + AlCl3 -> LiCl + Al:3 1 3 1
+C2H6 + O2 -> CO2 + H2O:2 7 4 6
+Rb + P -> Rb3P:3 1 1
+Na + Cl2 -> NaCl:2 1 2
+Rb + S8 -> Rb2S:16 1 8
+NH3 + HCl -> NH4Cl:1 1 1
+Li + H2O -> LiOH + H2:2 2 2 1
+NH3 + O2 -> N2 + H2O:4 3 2 6
+FeS2 + O2 -> Fe2O3 + SO2:4 11 2 8
+C + SO2 -> CS2 + CO:5 2 1 4
